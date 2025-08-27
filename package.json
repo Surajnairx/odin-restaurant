@@ -1,0 +1,16 @@
+{
+  "name": "odin-restaurant",
+  "version": "1.0.0",
+  "description": "📦 A dynamic restaurant website built as part of The Odin Project curriculum. Implemented with JavaScript modules, Webpack bundling, and DOM manipulation. Features multiple tabs (Home, Menu, Contact) that render content dynamically without reloading the page.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "author": "Suraj Nair",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.101.3",
+    "webpack-cli": "^6.0.1"
+  }
+}
