@@ -37,3 +37,17 @@ nav > button {
 nav > button:hover {
   background-color: rgb(128, 133, 47);
 }
+
+.menu {
+  font-size: 3rem;
+  font-weight: 600;
+  color: rgb(253, 242, 31);
+  margin-left: 40rem;
+}
+
+.contact {
+  font-size: 3rem;
+  font-weight: 600;
+  color: rgb(253, 242, 31);
+  margin-left: 40rem;
+}
